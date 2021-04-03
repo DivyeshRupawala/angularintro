@@ -1,0 +1,78 @@
+{
+	"Form": {
+		"NAME": "नाम",
+		"CONTACT_PERSON": "संपर्क व्यक्ति",
+		"EMAIL": "ईमेल",
+		"ROOT_USER_EMAIL": "रूट उपयोगकर्ता ईमेल",
+		"PASSWORD": "पासवर्ड",
+		"CONFIRM_PASSWORD": "पासवर्ड की पुष्टि करें",
+		"PHONE": "फोन",
+		"REGISTER": "रजिस्टर",
+		"CANCEL": "रद्द करें",
+		"SAVE": "बचाओ",
+		"STATUS": "स्थिति",
+		"ENABLE": "सक्षम करें",
+		"DISABLE": "अक्षम करें",		
+		"ACTIONS": "कार्रवाई",
+		"EDIT": "संपादित करें",
+		"DELETE": "हटाएं",
+		"STATUS_OF_LIVE": "लाइव URL",
+		"STATUS_OF_TEST": "परीक्षण URL",
+		"STATUS_OF_DEV": "देव URL",
+		"PRIMARY_LANGUAGE": "प्राथमिक भाषा",
+		"SUPPORTED_LANGUAGE": "समर्थित भाषा",
+		"SELECT_LANGUAGE": "भाषा चुनें",	
+		"URL": "URL",
+		"DESCRIPTION":"विवरण",
+		"LANGUAGE":"भाषा",
+		"TOOLTIPS":"टूल टिप्स",
+		"WORKFLOW":"कार्यप्रवाह",
+		"COMPONENT":"घटक",	
+		"WELCOME": "स्वागत हे",
+		"CREATE_ACCOUNT_INFO": "आपका खाता बनाने में केवल कुछ सेकंड लगते हैं",
+		"ALREADY_ACCOUNT": "पहले से ही एक खाता है?",
+		"SIGN_IN": "साइन इन",
+		"RESET": "रीसेट",
+		"CREATE_ACCOUNT": "खाता बनाएँ",
+
+		"Placeholder": {
+			"NAME": "कंपनी का नाम दर्ज करें",
+			"USER_NAME": "उपयोगकर्ता नाम दर्ज करें",
+			"CONTACT_PERSON": "संपर्क व्यक्ति से प्रवेश करें",
+			"EMAIL": "ईमेल आईडी दर्ज करें",
+			"ROOT_USER_EMAIL": "रूट यूजर ईमेल आईडी दर्ज करें",
+			"PASSWORD": "पासवर्ड दर्ज करें",
+			"CONFIRM_PASSWORD": "पासवर्ड की पुष्टि करें",
+			"PHONE": "फ़ोन नंबर दर्ज करें",
+			"STATUS_OF_LIVE": "लाइव URL दर्ज करें",
+			"STATUS_OF_TEST": "टेस्ट URL दर्ज करें",
+			"STATUS_OF_DEV": "देव URL दर्ज करें",
+			"URL": "URL दर्ज करें",
+			"DESCRIPTION":"विवरण दर्ज करें"
+		},
+
+		"Error" : {
+			"NAME": "नाम की आवश्यकता है।",
+			"CONTACT_PERSON": "संपर्क व्यक्ति की आवश्यकता है।",
+			"EMAIL": "ईमेल की आवश्यकता है।",
+			"ROOT_USER_EMAIL": "रूट ईमेल की आवश्यकता है।",
+			"PASSWORD": "पासवर्ड की आवश्यकता है।",
+			"CONFIRM_PASSWORD": "पासवर्ड की पुष्टि की आवश्यकता है।",
+			"PHONE": "फोन की आवश्यकता है।",
+			"STATUS_OF_LIVE": "लाइव URL की आवश्यकता है।",
+			"STATUS_OF_TEST": "टेस्ट URL की आवश्यकता है।",			
+			"STATUS_OF_DEV": "देव URL की आवश्यकता है।",
+			"URL": "URL की आवश्यकता है।",
+			"DESCRIPTION":"विवरण की आवश्यकता है।"
+		}
+	},
+
+	"Left_Menu": {		
+		"DASHBOARDS": "डैशबोर्ड्स",		
+		"COMPANY_REGISTRATION": "कंपनी पंजीकरण",
+		"USER_MANAGEMENT": "उपयोगकर्ता प्रबंधन",
+		"PROJECT_MANAGEMENT": "परियोजना प्रबंधन",
+		"SCREEN_MANAGEMENT": "स्क्रीन प्रबंधन",
+		"CHANGE_PASSWORD": "पासवर्ड बदलें"	
+	}
+}
